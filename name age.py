@@ -1,0 +1,6 @@
+name=input("enter your name: ")
+age= int(input("enter your age: "))
+print('{} is {} years old' .format(name,age+1))
+print('{} years old programmer with name {}' .format(age,name))
+print("{} years of {}'s life" .format(age,name))
+print('{} never lied about his age' .format(name))
