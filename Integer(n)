@@ -1,0 +1,5 @@
+n = int(input('Enter a number: '))
+product1 = n*n
+product2 = n*n*n
+sum = n + product1 + product2
+print('The computed value is: %d' %sum)

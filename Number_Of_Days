@@ -1,0 +1,5 @@
+from datetime import date
+y1 = date(2014, 7, 2)
+y2 = date(2014, 7, 11)
+Diff = y2 -y1
+print(Diff.days)

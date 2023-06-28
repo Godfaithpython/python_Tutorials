@@ -1,0 +1,6 @@
+Num = int(input("Enter any number: "))
+diff = 17 - Num
+print("The difference is: %d" %diff)
+if Num > 17:
+    diff = (Num - 17)*2
+    print("The absolute difference is: %d" %diff)
